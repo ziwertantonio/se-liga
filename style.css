@@ -2,12 +2,12 @@
     background-color: blue;
     color: purple;
     text-align: center;
-    border: 1000px;
+    border: 100px;
     border-style: double;
     border-color: darkred;
 }
 p{
-    color: rgb(0, 255, 234);
+    color: aquamarine;
     font-size: 20px;
 }
 
