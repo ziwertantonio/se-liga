@@ -22,3 +22,11 @@ p{
     color: navy;
     font-size: 15px;
 }
+
+#imagem-recuperacão{
+    border-style: dotted;
+    border:10px;
+    border-color: darkmagenta;
+    width: 400px;
+    height:400px;
+}
